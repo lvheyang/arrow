@@ -280,6 +280,7 @@ pub mod common;
 #[cfg(feature = "crypto_expressions")]
 pub mod crypto_expressions;
 pub mod csv;
+pub mod json;
 pub mod datetime_expressions;
 pub mod distinct_expressions;
 pub mod empty;
